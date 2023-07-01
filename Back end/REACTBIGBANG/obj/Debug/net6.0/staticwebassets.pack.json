@@ -1,0 +1,49 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\kames\\source\\repos\\REACTBIGBANG\\REACTBIGBANG\\wwwroot\\uploads\\15f693cf-0e43-453b-8dca-7c02361f7429.jpg",
+      "PackagePath": "staticwebassets\\uploads\\15f693cf-0e43-453b-8dca-7c02361f7429.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kames\\source\\repos\\REACTBIGBANG\\REACTBIGBANG\\wwwroot\\uploads\\3e25e52c-6a34-47c4-bc5b-2d847584e5e6.jpg",
+      "PackagePath": "staticwebassets\\uploads\\3e25e52c-6a34-47c4-bc5b-2d847584e5e6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kames\\source\\repos\\REACTBIGBANG\\REACTBIGBANG\\wwwroot\\uploads\\412a7c35-9b00-42b2-84dd-21bc3060b4ca.jpg",
+      "PackagePath": "staticwebassets\\uploads\\412a7c35-9b00-42b2-84dd-21bc3060b4ca.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kames\\source\\repos\\REACTBIGBANG\\REACTBIGBANG\\wwwroot\\uploads\\6e77eeee-0e01-4c5c-9c03-b0977390cccf.jpg",
+      "PackagePath": "staticwebassets\\uploads\\6e77eeee-0e01-4c5c-9c03-b0977390cccf.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kames\\source\\repos\\REACTBIGBANG\\REACTBIGBANG\\wwwroot\\uploads\\aebc7e53-0ec1-4ed5-aa77-54935698bb6a.jpg",
+      "PackagePath": "staticwebassets\\uploads\\aebc7e53-0ec1-4ed5-aa77-54935698bb6a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kames\\source\\repos\\REACTBIGBANG\\REACTBIGBANG\\wwwroot\\uploads\\c42dc173-1a91-4c65-af9b-4c1e8686aeba.jpg",
+      "PackagePath": "staticwebassets\\uploads\\c42dc173-1a91-4c65-af9b-4c1e8686aeba.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kames\\source\\repos\\REACTBIGBANG\\REACTBIGBANG\\wwwroot\\uploads\\edac123a-ee1a-4086-9277-067d50760c28.jpg",
+      "PackagePath": "staticwebassets\\uploads\\edac123a-ee1a-4086-9277-067d50760c28.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.REACTBIGBANG.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.REACTBIGBANG.props",
+      "PackagePath": "build\\REACTBIGBANG.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.REACTBIGBANG.props",
+      "PackagePath": "buildMultiTargeting\\REACTBIGBANG.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.REACTBIGBANG.props",
+      "PackagePath": "buildTransitive\\REACTBIGBANG.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
